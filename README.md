@@ -1,5 +1,5 @@
 # JEST TEST TUTORIAL (unofficial)
-![JEST logo](https://cdn-images-1.medium.com/max/1600/1*UtU_giNQ-8lst18a6RL-cg.png = 150x150)
+![JEST logo](https://www.learnstorybook.com/logo-jest.png = 150x150)
 A sweet introduction to Jest use, to get started in minutes
 
 This is a little getting strarted to fast get into JEST basics for Node testing.
