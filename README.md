@@ -1,5 +1,5 @@
 # JEST TEST TUTORIAL (unofficial)
-![JEST logo](https://www.learnstorybook.com/logo-jest.png = 150x150)
+<img align="center" src="https://www.learnstorybook.com/logo-jest.png" alt="JEST logo" width="90">   
 A sweet introduction to Jest use, to get started in minutes
 
 This is a little getting strarted to fast get into JEST basics for Node testing.
