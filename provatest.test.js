@@ -10,6 +10,7 @@
  *    4. Make a complex test
  *    5. Tidy up your test
  *    6. DESCRIBE your many tests
+ *    7. Please AWAIT for me
  * 
  * 
  * @ref: https://jestjs.io/
