@@ -1,5 +1,5 @@
 # JEST TEST TUTORIAL (unofficial)
-!(JEST logo)[https://jestjs.io/img/jest-outline.svg]
+![JEST logo](https://jestjs.io/img/jest-outline.svg)
 A sweet introduction to Jest use, to get started in minutes
 
 This is a little getting strarted to fast get into JEST basics for Node testing.
