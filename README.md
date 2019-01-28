@@ -14,6 +14,22 @@ readily, simply **uncommenting** the lines below the "TUTORIAL" introduction sec
 6. DESCRIBE your many tests
 7. Please AWAIT for me
 
+## Starting from zero
+
+1. Create a module with one function.
+1.1. Remember to export the functions you want to test.
+2. Create a file with the same name of the previous module and
+add '.test' to its name.
+3. From a Terminal launch
+> npm t NAMEOFTHEMODULE
+
+If an error is raised about the command jest not found, check
+the installation steps:
+1. please make be sure that package-lock contains 'jest' as value of 
+scripts.test .
+2. eventually delete the package-lock and type
+> npm init again
+
 ## Other useful resources
  * [Official doc](https://jestjs.io/)
  * [A nice cheatsheet](https://devhints.io/jest)
